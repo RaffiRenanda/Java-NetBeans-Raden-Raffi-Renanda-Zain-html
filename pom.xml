@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.5.5</version>
+		<version>2.5.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>UCP.java</groupId>
-	<artifactId>Praktikum.java.kelas.a</artifactId>
+	<groupId>Exercise</groupId>
+	<artifactId>Exercise_Satu</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Praktikum.java.kelas.a</name>
-	<description>UCP kelas A</description>
+	<name>Exercise_Satu</name>
+	<description>Pengerjaan Exercise</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
